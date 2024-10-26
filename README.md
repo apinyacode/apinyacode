@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @apinyacode
-- 👀 I’m interested in everything
+- 👀 Live To Learn -
 
 <!---
 apinyacode/apinyacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
